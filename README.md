@@ -1,4 +1,4 @@
-# TCP Chat Application (C#)
+# TCP Chat Application <img src="https://skillicons.dev/icons?i=c#" />
 
 ## Overview
 This is a simple **TCP-based chat application** in C# that allows bidirectional communication between a **server** and a **client** using **TCP sockets**. The server and client run as separate console applications and support real-time messaging.

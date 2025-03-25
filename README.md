@@ -67,8 +67,11 @@ Server: How are you?
 ## Code Structure
 ```
 Client_Server_Chat/
-│── Server.cs   # Server-side application
-│── lient.cs   # Client-side application
+│── TCPChatApp
+    │── TCPChatApp
+        │── Server.cs   # Server-side application
+        │── client.cs   # Client-side application
+    │── TCPChatApp.sln
 │── README.md      # Project documentation
 ```
 

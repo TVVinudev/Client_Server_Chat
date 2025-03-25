@@ -18,26 +18,26 @@ This is a simple **TCP-based chat application** in C# that allows bidirectional 
 ## How to Run
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/TCP-Chat-App.git
-cd TCP-Chat-App
+git clone https://github.com/TVVinudev/Client_Server_Chat.git
+cd Client_Server_Chat
 ```
 
 ### 2. Compile the Server and Client
 ```sh
-csc TCPServer.cs
-csc TCPClient.cs
+csc Server.cs
+csc client.cs
 ```
 
 ### 3. Run the Server
 Start the **server** first:
 ```sh
-TCPServer.exe
+Server.exe
 ```
 
 ### 4. Run the Client
 Start the **client** in a new terminal:
 ```sh
-TCPClient.exe
+client.exe
 ```
 
 ### 5. Start Chatting!
@@ -66,9 +66,9 @@ Server: How are you?
 
 ## Code Structure
 ```
-TCP-Chat-App/
-│── TCPServer.cs   # Server-side application
-│── TCPClient.cs   # Client-side application
+Client_Server_Chat/
+│── Server.cs   # Server-side application
+│── lient.cs   # Client-side application
 │── README.md      # Project documentation
 ```
 

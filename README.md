@@ -10,7 +10,7 @@ This is a simple **TCP-based chat application** in C# that allows bidirectional 
 ✅ Stable and efficient network communication
 
 ## Technologies Used
-- C#
+ <img src="https://skillicons.dev/icons?i=c#" /><br>
 - .NET Framework
 - TCP Sockets
 - Multi-threading

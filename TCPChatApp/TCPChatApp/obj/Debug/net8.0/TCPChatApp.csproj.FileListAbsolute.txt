@@ -1,0 +1,14 @@
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\bin\Debug\net8.0\TCPChatApp.exe
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\bin\Debug\net8.0\TCPChatApp.deps.json
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\bin\Debug\net8.0\TCPChatApp.runtimeconfig.json
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\bin\Debug\net8.0\TCPChatApp.dll
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\bin\Debug\net8.0\TCPChatApp.pdb
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\obj\Debug\net8.0\TCPChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\obj\Debug\net8.0\TCPChatApp.AssemblyInfoInputs.cache
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\obj\Debug\net8.0\TCPChatApp.AssemblyInfo.cs
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\obj\Debug\net8.0\TCPChatApp.csproj.CoreCompileInputs.cache
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\obj\Debug\net8.0\TCPChatApp.dll
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\obj\Debug\net8.0\refint\TCPChatApp.dll
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\obj\Debug\net8.0\TCPChatApp.pdb
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\obj\Debug\net8.0\TCPChatApp.genruntimeconfig.cache
+C:\Users\vinudev.tv\source\repos\TCPChatApp\TCPChatApp\obj\Debug\net8.0\ref\TCPChatApp.dll

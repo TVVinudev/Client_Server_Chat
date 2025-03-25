@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinudev.tv\\source\\repos\\TCPChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9275C2C-55D7-48BC-8C8B-B6096B2BFF68}|TCPChatApp\\TCPChatApp.csproj|c:\\users\\vinudev.tv\\source\\repos\\tcpchatapp\\tcpchatapp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9275C2C-55D7-48BC-8C8B-B6096B2BFF68}|TCPChatApp\\TCPChatApp.csproj|solutionrelative:tcpchatapp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9275C2C-55D7-48BC-8C8B-B6096B2BFF68}|TCPChatApp\\TCPChatApp.csproj|c:\\users\\vinudev.tv\\source\\repos\\tcpchatapp\\tcpchatapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9275C2C-55D7-48BC-8C8B-B6096B2BFF68}|TCPChatApp\\TCPChatApp.csproj|solutionrelative:tcpchatapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "client.cs",
+              "DocumentMoniker": "C:\\Users\\vinudev.tv\\source\\repos\\TCPChatApp\\TCPChatApp\\client.cs",
+              "RelativeDocumentMoniker": "TCPChatApp\\client.cs",
+              "ToolTip": "C:\\Users\\vinudev.tv\\source\\repos\\TCPChatApp\\TCPChatApp\\client.cs",
+              "RelativeToolTip": "TCPChatApp\\client.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:58:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\vinudev.tv\\source\\repos\\TCPChatApp\\TCPChatApp\\Server.cs",
+              "RelativeDocumentMoniker": "TCPChatApp\\Server.cs",
+              "ToolTip": "C:\\Users\\vinudev.tv\\source\\repos\\TCPChatApp\\TCPChatApp\\Server.cs",
+              "RelativeToolTip": "TCPChatApp\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:11:57.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
